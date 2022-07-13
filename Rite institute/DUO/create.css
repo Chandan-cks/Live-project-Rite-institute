@@ -1,0 +1,45 @@
+body{
+    font-family: Verdana, sans-serif;
+}
+input {
+	border-radius: 5px;
+	padding: 5px;
+}
+/* div {
+	text-align:center;
+} */
+form { 
+	/* width: 480px;  */
+	margin: auto;
+	padding: 15px; 
+	border: solid black 1px;	
+	border-radius: 10px;  
+	box-shadow: 5px 5px 2px #888;   
+    text-align: justify;
+}
+/* start my editing with css */
+
+.middle {
+    text-align: center;
+    border: 1px solid;
+    border-radius: 15px;
+    border-bottom-width: thick;
+    width: 624px;
+    margin-left: 28%;
+}
+form .middle {
+    text-align: center;
+    border: 1px solid;
+    border-radius: 15px;
+    border-bottom-width: thick;
+    width: 400px;
+    margin-left: 30%;
+}
+.student{
+        display: flex;
+}
+.student .block1{
+    justify-content: space-between;
+    
+
+}
